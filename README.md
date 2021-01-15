@@ -10,3 +10,5 @@ Dont forget subscribe my channel Rendi Noober and like fanspage Rendi Noober. <b
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rendi-ID&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### 📱 Social Media 📱
 - <h4 style="font-family:'Caveat', cursive"><a href="https://github.com/Rendi-ID">Github</a></h4>
+- <h4 style="font-family:'Caveat', cursive"><a href="http://api.whatsapp.com/send?phone=628998941414">WhatsApp</a></h4>
+- <h4 style="font-family:'Caveat', cursive"><a href="https://www.facebook.com/profile.php?id=100028387906209">Facebook</a></h4>
