@@ -12,5 +12,4 @@
 - Instagram : rendinoober_ <br>
 - YouTube : Rendi Noober <br>
 - Fanspage : Rendi Noober <br><br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rendi-ID)](https://github.com/anuraghazra/github-readme-stats)
- 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rendi-ID&show_icons=true&theme=radical)
