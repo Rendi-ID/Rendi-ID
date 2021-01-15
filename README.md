@@ -1,5 +1,5 @@
 ### <h4 align="center">🔰 Wellcome to my github 🔰</h4>
-### <h4 align="center">< Dont forget follow my github /></h4> <br>
+### <h4 align="center">< Dont forget follow my github /></h4>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rendi-ID&show_icons=true&theme=radical)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rendi-ID&repo=kalkulator-cli-cpp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rendi-ID&repo=simple-code-calendar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
