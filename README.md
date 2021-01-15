@@ -1,5 +1,5 @@
-### 🔰 Wellcome to my github 🔰<br>
-### < Dont forget follow my github /> <br>
+### <h2 align="center">🔰 Wellcome to my github 🔰<h2>
+### <h2 align="center">< Dont forget follow my github /></h2> <br>
 I am Randiansyah from indonesia in the province of central kalimantan / sampit. <br>
 Dont forget subscribe my channel Rendi Noober and like fanspage Rendi Noober. <br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rendi-ID&show_icons=true&theme=radical)<br>
