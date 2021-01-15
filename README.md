@@ -13,3 +13,4 @@ Dont forget subscribe my channel Rendi Noober and like fanspage Rendi Noober. <b
 - <a href="http://api.whatsapp.com/send?phone=628998941414">WhatsApp</a>
 - <a href="https://www.facebook.com/profile.php?id=100028387906209">Facebook</a>
 - <a href="https://www.youtube.com/channel/UClOfbjKzNtNdnAkv6uUoMNw">YouTube</a>
+- <a href="https://m.facebook.com/RendiNoober1/>Fanspage</a>
